@@ -8,7 +8,8 @@
 - 💎 **Open Source:** Building tools that solve real problems - sustainably
 
 ## Featured Projects
-[coming soon...]
+- DailyWins - https://dailywins.ibexoft.com
+- SpendLess - https://spendless.ibexoft.com
 
 ## How I'm Building Sustainable OSS
 - Sponsors for ongoing development
