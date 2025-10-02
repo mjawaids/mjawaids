@@ -1,16 +1,24 @@
-## Hi there 👋
+# Building the Future of Web Applications 🚀
 
-<!--
-**mjawaids/mjawaids** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Mission:** Creating a suite of B2C and B2B web applications while building sustainable open source software.
 
-Here are some ideas to get you started:
+## What I'm Working On
+- 🏢 **B2B Solutions:** [coming soon...]
+- 👥 **B2C Products:** [DailyWins, SpendLess, more coming soon...]
+- 💎 **Open Source:** Building tools that solve real problems - sustainably
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+[coming soon...]
+
+## How I'm Building Sustainable OSS
+- Sponsors for ongoing development
+- Dual licensing (MIT + Commercial)
+- Premium features/support tiers
+
+## Tech Stack
+- PHP/Laravel (LAMP/TALL)
+
+## Support My Work
+https://jawaid.dev
+
+📫 Reach me: jawaid@jawaid.dev
