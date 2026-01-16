@@ -10,6 +10,7 @@
 ## Featured Projects
 - DailyWins - https://dailywins.ibexoft.com - Transform your productivity by celebrating every achievement. Track, organize, and reflect on your daily wins.
 - SpendLess - https://spendless.ibexoft.com - Compare prices across thousands of stores, create smart shopping lists, and save money on everything you buy.
+- VIN Verification WordPress Plugin - https://github.com/Ibexoft/vin-verification-wp-plugin
 - Automotiv Feed Import WordPress Plugin - https://wordpress.com/plugins/automotive-feed-import
 - Custom Fields as Meta Tags WordPress Plugin - https://wordpress.com/plugins/custom-fields-as-meta-tags
 - WooCommerce Variation Sorting in Admin - https://github.com/Ibexoft/woocommerce-sort-variations-admin
