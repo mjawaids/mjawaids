@@ -1,41 +1,36 @@
-# Building the Future of Web Applications 🚀
+# Muhammad Jawaid Shamshad
 
-**Mission:** Creating a suite of B2C and B2B web applications while building sustainable open source software.
+**Solutions Architect · Principal Engineer · Engineering Leader**
+20+ years modernizing and stabilizing business-critical backend systems — now shipping products end-to-end with AI.
 
-## What I'm Working On
-- 🏢 **B2B Solutions:** [Automotive solutions, Ecommerce solutions, more coming soon...]
-- 👥 **B2C Products:** [DailyWins, SpendLess, more coming soon...]
-- 💎 **Open Source:** Building tools that solve daily life and small business problems - sustainably
+I take fragile, high-stakes systems and make them reliable, maintainable, and modern. Most of my architecture and backend work over two decades lives in private enterprise codebases; what you'll find here in the open is what I build for myself and the community — increasingly by directing AI to design and ship complete products fast.
 
-## Featured Projects
-- DailyWins - https://dailywins.ibexoft.com - Transform your productivity by celebrating every achievement. Track, organize, and reflect on your daily wins.
-- SpendLess - https://spendless.ibexoft.com - Compare prices across thousands of stores, create smart shopping lists, and save money on everything you buy.
-- VIN Verification WordPress Plugin - https://github.com/Ibexoft/vin-verification-wp-plugin
-- Automotiv Feed Import WordPress Plugin - https://wordpress.com/plugins/automotive-feed-import
-- Custom Fields as Meta Tags WordPress Plugin - https://wordpress.com/plugins/custom-fields-as-meta-tags
-- WooCommerce Variation Sorting in Admin - https://github.com/Ibexoft/woocommerce-sort-variations-admin
-- Aweseom Startup Tools List - https://github.com/Ibexoft/awesome-startup-tools-list
+## How I work
 
-## How I'm Building Sustainable OSS
-- Sponsors for ongoing development
-- Dual licensing (MIT + Commercial)
-- Premium features/support tiers
+I pair two decades of architecture experience with fluent, daily use of AI across the software delivery lifecycle — research, architecture and code decisions, development, debugging, and documentation. I direct AI from a senior vantage point: I set the architecture, make the calls, and validate the output. It multiplies experience; it doesn't replace it.
 
-## Tech Stack
-- **Backend**: PHP/Laravel/WordPress (LAMP/TALL stack)
-- **Frontend**: Alpine.js/Livewire, Vue.js, JavaScript
-- **Infrastructure**: CloudFlare, Digital Ocean, WP Engine, Supabase, Netlify
-- **Specialty**: Backend, APIs, SaaS
+## Selected work
 
-## Support My Work
-Your sponsorship helps me:
-- Maintain and improve open source projects
-- Build new apps and features
-- Create free tools for everyone to use in daily lives
+**Products shipped end-to-end through AI-driven workflows**
+- **DailyWins** — track, organize, and reflect on your daily wins · https://dailywins.ibexoft.com
+- **SpendLess** — smart shopping lists and price comparison · https://spendless.ibexoft.com
 
-https://jawaid.dev
+**Open source & WordPress plugins** *(backend / PHP, some with real-world users)*
+- **Awesome Startup Tools List** — 1k+ ⭐ · https://github.com/Ibexoft/awesome-startup-tools-list
+- **Automotive Inventory Importer** (WordPress plugin) · https://wordpress.com/plugins/automotive-feed-import
+- **VIN Verification** (WordPress plugin) · https://github.com/Ibexoft/vin-verification-wp-plugin
+- **Custom Fields as Meta Tags** (WordPress plugin) · https://wordpress.com/plugins/custom-fields-as-meta-tags
+- **WooCommerce Variation Sorting in Admin** · https://github.com/Ibexoft/woocommerce-sort-variations-admin
 
-📫 Reach me: jawaid@jawaid.dev
+## Tech
 
-⭐ Star projects you find useful
-🐛 Report issues or suggest features
+- **Backend & architecture:** PHP, Laravel, WordPress, REST APIs, relational databases, legacy modernization
+- **Building with AI:** Claude (incl. Claude Code and Claude Design), GitHub Copilot, Codex, Antigravity
+- **Also working with:** Cloudflare, Supabase, Netlify
+
+## Connect
+
+- 🌐 https://jawaid.dev
+- ✍️ https://ibexoft.com/blog
+- 💼 https://www.linkedin.com/in/mjawaids
+- 📫 jawaid@jawaid.dev
