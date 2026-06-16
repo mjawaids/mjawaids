@@ -18,9 +18,9 @@ I pair two decades of architecture experience with fluent, daily use of AI acros
 **Open source & WordPress plugins** *(backend / PHP, some with real-world users)*
 - **Awesome Startup Tools List** — 1k+ ⭐ · https://github.com/Ibexoft/awesome-startup-tools-list
 - **Automotive Inventory Importer** (WordPress plugin) · https://wordpress.com/plugins/automotive-feed-import
+- **Ibex Wallet** - Personal Finance Manager · https://github.com/Ibexoft/ibex-wallet
 - **VIN Verification** (WordPress plugin) · https://github.com/Ibexoft/vin-verification-wp-plugin
 - **Custom Fields as Meta Tags** (WordPress plugin) · https://wordpress.com/plugins/custom-fields-as-meta-tags
-- **WooCommerce Variation Sorting in Admin** · https://github.com/Ibexoft/woocommerce-sort-variations-admin
 
 ## Tech
 
