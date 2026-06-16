@@ -1,6 +1,6 @@
 # Muhammad Jawaid Shamshad
 
-**Solutions Architect · Principal Engineer · Engineering Leader**
+**Solutions Architect · Principal Software Engineer · Engineering Leader**
 20+ years modernizing and stabilizing business-critical backend systems — now shipping products end-to-end with AI.
 
 I take fragile, high-stakes systems and make them reliable, maintainable, and modern. Most of my architecture and backend work over two decades lives in private enterprise codebases; what you'll find here in the open is what I build for myself and the community — increasingly by directing AI to design and ship complete products fast.
